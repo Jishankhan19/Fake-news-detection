@@ -8,7 +8,6 @@
 - [Model Name](#model-name)
 - [Images](#images)
 - [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
 
 ## Introduction
 This repository contains a comprehensive project for detecting fake news using machine learning techniques and various natural language processing techniques. The project includes data analysis, model training, and a web application for real-time fake news detection. The machine learning model is designed to classify news articles as either real or fake based on their content.
@@ -72,39 +71,6 @@ Before you begin, ensure you have met the following requirements:
 - Python 3.7 or higher
 - Install all dependencies from the requirements.txt file.
 
-## Getting Started
-To get started with this project, follow these steps:
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/abiek12/Fake-News-Detection-using-MachineLearning.git
-   ```
-
-2. Create a virtual environment (optional but recommended):
-   ```bash
-   python -m venv my_env
-   ```
-
-3. Activate the virtual environment:
-   ```bash
-   # On Windows
-   .\my_env\Scripts\Activate.ps1
-   # On macOS and Linux
-   source my_env/bin/activate
-   ```
-
-4. Install project dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-5. Run the web application:
-   ```bash
-   python app.py
-   ```
-
-Access the application in your web browser by navigating to `http://localhost:5000`.
-
----
 
 **Author**
 - ABHISHEK P P (https://github.com/abiek12)

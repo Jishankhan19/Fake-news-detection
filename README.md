@@ -70,11 +70,3 @@ This section provides visuals and diagrams used in the project:
 Before you begin, ensure you have met the following requirements:
 - Python 3.7 or higher
 - Install all dependencies from the requirements.txt file.
-
-
-**Author**
-- ABHISHEK P P (https://github.com/abiek12)
-
-- If you have any questions or need further assistance, feel free to contact us at abhishekkanichery@gmail.com
-
----
